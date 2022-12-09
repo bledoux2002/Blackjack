@@ -15,4 +15,4 @@ To deploy this project run Blackjack.py from the terminal or any code editor.
 
 ## Further Work
 
-Implementing a betting system and fleshing out the feautures like doubling down, and customizing messages to reflect the anture of the outcome (blackjack, etc.).
+Implementing a betting system and fleshing out the features like doubling down, and customizing messages to reflect the nature of the outcome (blackjack, etc.).
